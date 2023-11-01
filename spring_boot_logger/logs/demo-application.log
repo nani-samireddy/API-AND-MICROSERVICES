@@ -1,0 +1,21 @@
+2023-11-01 22:16:12.544 [main] INFO  c.e.s.SpringBootLoggerApplication - Starting SpringBootLoggerApplication using Java 18.0.2 with PID 79435 (/Users/samireddynani/Desktop/api/spring_boot_logger/target/classes started by samireddynani in /Users/samireddynani/Desktop/api/spring_boot_logger)
+2023-11-01 22:16:12.548 [main] INFO  c.e.s.SpringBootLoggerApplication - No active profile set, falling back to 1 default profile: "default"
+2023-11-01 22:16:13.645 [main] INFO  c.e.s.SpringBootLoggerApplication - Started SpringBootLoggerApplication in 1.964 seconds (process running for 3.643)
+2023-11-01 22:17:49.750 [main] INFO  c.e.s.SpringBootLoggerApplication - Starting SpringBootLoggerApplication using Java 18.0.2 with PID 79683 (/Users/samireddynani/Desktop/api/spring_boot_logger/target/classes started by samireddynani in /Users/samireddynani/Desktop/api/spring_boot_logger)
+2023-11-01 22:17:49.754 [main] INFO  c.e.s.SpringBootLoggerApplication - No active profile set, falling back to 1 default profile: "default"
+2023-11-01 22:17:50.913 [main] INFO  c.e.s.SpringBootLoggerApplication - Started SpringBootLoggerApplication in 2.036 seconds (process running for 3.135)
+2023-11-01 22:20:24.428 [main] INFO  c.e.s.SpringBootLoggerApplication - Starting SpringBootLoggerApplication using Java 18.0.2 with PID 80074 (/Users/samireddynani/Desktop/api/spring_boot_logger/target/classes started by samireddynani in /Users/samireddynani/Desktop/api/spring_boot_logger)
+2023-11-01 22:20:24.431 [main] INFO  c.e.s.SpringBootLoggerApplication - No active profile set, falling back to 1 default profile: "default"
+2023-11-01 22:20:25.445 [main] INFO  c.e.s.SpringBootLoggerApplication - Started SpringBootLoggerApplication in 1.755 seconds (process running for 2.754)
+2023-11-01 22:20:36.300 [main] INFO  c.e.s.SpringBootLoggerApplication - Starting SpringBootLoggerApplication using Java 18.0.2 with PID 80108 (/Users/samireddynani/Desktop/api/spring_boot_logger/target/classes started by samireddynani in /Users/samireddynani/Desktop/api/spring_boot_logger)
+2023-11-01 22:20:36.302 [main] INFO  c.e.s.SpringBootLoggerApplication - No active profile set, falling back to 1 default profile: "default"
+2023-11-01 22:20:37.342 [main] INFO  c.e.s.SpringBootLoggerApplication - Started SpringBootLoggerApplication in 1.819 seconds (process running for 2.679)
+2023-11-01 22:55:09.359 [main] INFO  c.e.s.SpringBootLoggerApplication - Starting SpringBootLoggerApplication using Java 18.0.2 with PID 85461 (/Users/samireddynani/Desktop/api/spring_boot_logger/target/classes started by samireddynani in /Users/samireddynani/Desktop/api/spring_boot_logger)
+2023-11-01 22:55:09.361 [main] INFO  c.e.s.SpringBootLoggerApplication - No active profile set, falling back to 1 default profile: "default"
+2023-11-01 22:55:10.333 [main] INFO  c.e.s.SpringBootLoggerApplication - Started SpringBootLoggerApplication in 1.695 seconds (process running for 2.596)
+2023-11-01 22:55:31.172 [main] INFO  c.e.s.SpringBootLoggerApplication - Starting SpringBootLoggerApplication using Java 18.0.2 with PID 85567 (/Users/samireddynani/Desktop/api/spring_boot_logger/target/classes started by samireddynani in /Users/samireddynani/Desktop/api/spring_boot_logger)
+2023-11-01 22:55:31.176 [main] INFO  c.e.s.SpringBootLoggerApplication - No active profile set, falling back to 1 default profile: "default"
+2023-11-01 22:55:32.222 [main] INFO  c.e.s.SpringBootLoggerApplication - Started SpringBootLoggerApplication in 1.959 seconds (process running for 2.944)
+2023-11-01 23:00:48.407 [main] INFO  c.e.s.SpringBootLoggerApplication - Starting SpringBootLoggerApplication using Java 18.0.2 with PID 86411 (/Users/samireddynani/Desktop/api/spring_boot_logger/target/classes started by samireddynani in /Users/samireddynani/Desktop/api/spring_boot_logger)
+2023-11-01 23:00:48.410 [main] INFO  c.e.s.SpringBootLoggerApplication - No active profile set, falling back to 1 default profile: "default"
+2023-11-01 23:00:49.514 [main] INFO  c.e.s.SpringBootLoggerApplication - Started SpringBootLoggerApplication in 2.149 seconds (process running for 3.138)

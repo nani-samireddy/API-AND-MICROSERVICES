@@ -9,10 +9,10 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.example</groupId>
-    <artifactId>spring_boot_logger</artifactId>
+    <artifactId>spring_boot_aop</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring_boot_logger</name>
-    <description>spring_boot_logger</description>
+    <name>spring_boot_aop</name>
+    <description>spring_boot_aop</description>
     <properties>
         <java.version>17</java.version>
     </properties>
@@ -28,9 +28,9 @@
             <scope>test</scope>
         </dependency>
         <dependency>
-            <groupId>org.springframework</groupId>
-            <artifactId>spring-web</artifactId>
-            <version>6.0.12</version>
+            <groupId>org.aspectj</groupId>
+            <artifactId>aspectjweaver</artifactId>
+            <version>1.9.20</version>
         </dependency>
     </dependencies>
 
